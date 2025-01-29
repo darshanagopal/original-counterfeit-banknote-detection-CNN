@@ -1,2 +1,2 @@
-# original-counterfeit-banknote-detection-CNN
+# original counterfeit banknote detection-CNN
 
